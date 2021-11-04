@@ -1,4 +1,4 @@
-# Catboost-vs-Lightboost-vs-XGBoost-vs-Snapboost
+# Implementation of the original paper CATGBMLA. Paper in link: https://ieeexplore.ieee.org/abstract/document/9362840
 
 A comparison of 4 boosting algorithm on various datasets
 
